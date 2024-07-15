@@ -1,0 +1,7 @@
+{
+  "name": "FinanceBuddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
