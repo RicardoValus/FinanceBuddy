@@ -58,3 +58,7 @@ platforms/
 plugins/
 www/
 merges/
+
+# Pastas de environments
+environments/
+!environments/*
