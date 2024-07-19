@@ -5,7 +5,7 @@ FinanceBuddy é uma aplicação de código aberto projetada para ajudar os usuá
 
 Como um projeto de código aberto, damos as boas-vindas a contribuições de desenvolvedores em todo o mundo. Seja você um programador experiente ou alguém que está apenas começando, sua contribuição pode nos ajudar a melhorar e expandir a funcionalidade do FinanceBuddy.
 
-    Como Contribuir:
+Como Contribuir:
 
 **Baixe o Projeto:** Faça um fork do repositório e clone para a sua máquina local.
 
